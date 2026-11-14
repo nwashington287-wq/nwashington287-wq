@@ -14,8 +14,7 @@
 
 [<img align="left" alt="Niki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Niki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Niki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="La_Elegance_48 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Niki
-[instagram]: https://www.instagram.com/Niki
-[linkedin]: https://linkedin.com/in/Niki
+[instagram]: https://www.instagram.com/La_Elegance_48
+[linkedin]:www.linkedin.com/in/niki-henton-washington-213780123
