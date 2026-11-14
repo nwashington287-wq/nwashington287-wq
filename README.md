@@ -13,7 +13,7 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Niki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Niki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Niki | LinkedIn" width="22px" src="www.linkedin.com/in/niki-henton-washington-213780123
 [<img align="left" alt="La_Elegance_48 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/La_Elegance_48
